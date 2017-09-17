@@ -14,3 +14,12 @@ But there's a catch.
 
 Expected Output - 
 2 Smart Contracts: 1 ERC20 Smart Contract and 1 Crowdsale Smart Contract 
+
+![Image 1](1_Creating_Token.png?raw=true "Token Creation")
+
+![Image 2](2_CrowdSale_Initialization.png?raw=true "CrowdSale Initialization")
+
+Some accounts that I created for testing the contract:
+![Image 3](3_Accounts_Created.png?raw=true "Test Accounts")
+
+
