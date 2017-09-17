@@ -19,7 +19,7 @@ Expected Output -
 
 ![Image 2](2_CrowdSale_Initialization.png?raw=true "CrowdSale Initialization")
 
-Some accounts that I created for testing the contract:
 ![Image 3](3_Accounts_Created.png?raw=true "Test Accounts")
 
+Some accounts that I created for testing the contract:
 
