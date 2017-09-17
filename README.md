@@ -21,5 +21,5 @@ Expected Output -
 
 ![Image 3](3_Accounts_Created.png?raw=true "Test Accounts")
 
-Some accounts that I created for testing the contract:
+Image 3 contains some accounts that I created for testing the contract.
 
